@@ -1,0 +1,10 @@
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\bin\Release\LembreteTemporario.exe.config
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\bin\Release\LembreteTemporario.exe
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\bin\Release\LembreteTemporario.pdb
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\obj\Release\LembreteTemporario.csprojAssemblyReference.cache
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\obj\Release\LembreteTemporario.Forms.TelaPrincipal.resources
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\obj\Release\LembreteTemporario.Properties.Resources.resources
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\obj\Release\LembreteTemporario.csproj.GenerateResource.cache
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\obj\Release\LembreteTemporario.csproj.CoreCompileInputs.cache
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\obj\Release\LembreteTemporario.exe
+C:\Users\Márcia\Documents\Projetos_DotNet\LembreteTemporario\obj\Release\LembreteTemporario.pdb
